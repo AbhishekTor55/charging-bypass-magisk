@@ -37,6 +37,6 @@ Run your phone plugged in **without charging the battery** while the screen is O
 
 If you like this project and want to support future development:
 
-- 📲 UPI: "kabhishek2972@ybl"
+📲 UPI: "kabhishek2972@ybl"
 Every small contribution helps!
 
