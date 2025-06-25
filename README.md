@@ -36,9 +36,10 @@ Run your phone plugged in **without charging the battery** while the screen is O
 
 
 
-  ## 🥳😜 Support This Project
+🥳😜 Support This Project
 
 If you like this project and want to support future development:
+
 
 - 📲 UPI: "kabhishek2972@ybl"
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/yourname)
