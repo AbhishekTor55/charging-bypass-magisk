@@ -33,9 +33,6 @@ Run your phone plugged in **without charging the battery** while the screen is O
 - Check kernel state via:
   ```bash
   cat /sys/class/power_supply/battery/charging_enabled
-
-
-
 🥳😜 Support This Project
 
 If you like this project and want to support future development:
