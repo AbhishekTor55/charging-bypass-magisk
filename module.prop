@@ -1,0 +1,6 @@
+id=chargingbypass_miatoll
+name=Charging Bypass for Miatoll (v3)
+version=1.0
+versionCode=1
+author=Abhishek (LinuxRootHackers)
+description=Improved version with reliable screen detection and faster charging control.
